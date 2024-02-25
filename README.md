@@ -11,7 +11,7 @@ in [js-subpackage](https://github.com/rauschdo/vuetify2-datetimepicker/blob/mast
 <br>
 <br>
 ❗<b>NOTE:</b> A Version of this Component compatible with <b>Vue(tify) 3.x</b>
-can [be found here](https://github.com/rauschdo/vuetify3-datetimepicker)
+is not planned anymore. See [Vuetify Roadmap 2024](https://vuetifyjs.com/en/introduction/roadmap/#section-2024-component-roadmap) or their [Video](https://youtu.be/HyBTMAs9Pz8?si=HNLLGNntJR4T-8WL&t=636) to get a glimpse of the upcoming component. 
 
 ---
 
